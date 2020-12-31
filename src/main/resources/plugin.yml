@@ -1,0 +1,8 @@
+name: DeathMessage
+version: ${project.version}
+main: me.nathan.deathmessage.DeathMessageMain
+api-version: 1.16
+authors: [ Nathan ]
+
+commands:
+  msgreload:
